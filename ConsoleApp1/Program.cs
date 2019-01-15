@@ -53,7 +53,10 @@ namespace Area_And_Perimeter
 				System.Environment.Exit(1);
 			}
 
-		
+			else {
+				Console.WriteLine("/nI couldn't understand, I'll start you from the beginning/n/n");
+				Main();
+					}
 
 
 
